@@ -1,26 +1,26 @@
 {
-  "name": "spryker-feature/product-sets",
-  "description": "Product Sets [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/product-set-detail-page": "^1.9.0",
-    "spryker-shop/product-set-list-page": "^1.1.0",
-    "spryker-shop/product-set-widget": "^1.8.0",
-    "spryker/product-set": "^1.6.0",
-    "spryker/product-set-gui": "^2.4.0",
-    "spryker/product-set-page-search": "^1.5.0",
-    "spryker/product-set-storage": "^1.7.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/product-sets",
+    "description": "Product Sets [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/product-set-detail-page": "^1.9.0",
+        "spryker-shop/product-set-list-page": "^1.1.0",
+        "spryker-shop/product-set-widget": "^1.8.0",
+        "spryker/product-set": "^1.6.0",
+        "spryker/product-set-gui": "^2.4.0",
+        "spryker/product-set-page-search": "^1.5.0",
+        "spryker/product-set-storage": "^1.7.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/product": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/product": "Recommended feature dependency."
-  }
 }
