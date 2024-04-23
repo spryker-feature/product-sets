@@ -7,11 +7,11 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.1",
-        "spryker-shop/product-set-detail-page": "^1.9.0",
+        "spryker-shop/product-set-detail-page": "^1.10.0",
         "spryker-shop/product-set-list-page": "^1.1.0",
-        "spryker-shop/product-set-widget": "^1.8.0",
-        "spryker/product-set": "^1.7.0",
-        "spryker/product-set-gui": "^2.8.0",
+        "spryker-shop/product-set-widget": "^1.9.0",
+        "spryker/product-set": "^1.8.0",
+        "spryker/product-set-gui": "^2.11.0",
         "spryker/product-set-page-search": "^1.8.0",
         "spryker/product-set-storage": "^1.9.0"
     },
