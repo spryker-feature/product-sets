@@ -8,16 +8,16 @@
     "require": {
         "php": ">=8.2",
         "spryker-shop/product-set-detail-page": "^1.11.0",
-        "spryker-shop/product-set-list-page": "^1.1.0",
-        "spryker-shop/product-set-widget": "^1.9.0",
-        "spryker/product-set": "^1.8.0",
+        "spryker-shop/product-set-list-page": "^1.2.0",
+        "spryker-shop/product-set-widget": "^1.10.0",
+        "spryker/product-set": "^1.9.0",
         "spryker/product-set-gui": "^3.0.0",
-        "spryker/product-set-page-search": "^1.11.0",
-        "spryker/product-set-storage": "^1.12.0"
+        "spryker/product-set-page-search": "^1.13.0",
+        "spryker/product-set-storage": "^1.13.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202510.x-dev"
+            "dev-master": "202512.x-dev"
         }
     },
     "suggest": {
